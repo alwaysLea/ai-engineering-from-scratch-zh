@@ -92,3 +92,8 @@ i18n/*/phases/
 i18n/*/.cache/
 i18n/*/.translate-cache.json
 i18n/*/ui.json
+
+# 模型checkout文件
+*.pt
+*.pth
+*.safetensors
